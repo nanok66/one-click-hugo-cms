@@ -1,6 +1,5 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Professional, competitively priced keg washers made in Colorado, USA"
 image: /img/triple head cropped 2.jpg
 blurb:
     heading: Why Kaldi?
