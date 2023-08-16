@@ -9,11 +9,11 @@ intro:
     text: "Omniwasher is the only company that allows you to completely customize your machine.  Every beverage maker has different needs.  Whether you are using kegs for a tiny nano-brewery, coffee roaster, or large beverage production facility, we make a keg washer for you.  Customers are welcome to use our Design Your Machine page or get in contact to discuss the best options for you."
 products:
     - image: img/gems sensor.jpg
-      text: "Blank blankkkkkkkkkkkkkk, put pressure sensor in next image"
+      text: "This sensor is an infra-red sensor that detects when liquid is present in the kegs, allowing the machine to move to the next step as soon as possible for the fastest possible keg washing."
     - image: /img/pressure switch.jpg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Adjustable pressure switch is available for all keg washers.  This keeps the final CO2 pressure of the kegs perfectly consistent even while using CO2 elsewhere in your facility."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Delete this section
+    text: Delete this section plz
 ---
 
