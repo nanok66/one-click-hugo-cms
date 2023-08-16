@@ -1,20 +1,19 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Professional, competitively priced keg washers made in Colorado, USA"
 image: /img/triple head cropped 2.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: The most flexible keg washer on the market
+    text: "OmniWasher keg washers are professional, feature rich, and customizeable, making them the most flexible keg washers on the market.   Customers are allowed to choose the build that suits their specific needs.   Multiple washing cycles including pulse rinse cycles for maximum cleaning.   Custom cycles are also available.   In addition to washing kegs, users are able to control each device independently, giving this keg washer additional uses besides keg cleaning.   Most common additional uses are heating CIP solutions (kettles are often excessively large for this task)  and filling kegs with warm draft line cleaning solutions.   Thousands cheaper than comparable keg washers on the market.  Low cost is possible because the entire machine from welding to wiring is made by the owner, Greg Kallfa.  100% made in Colorado, USA. "
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Omniwasher is the only company that allows you to completely customize your machine.  Every beverage maker has different needs.  Whether you are using kegs for a tiny nano-brewery, coffee roaster, or large beverage production facility, we make a keg washer for you.  Customers are welcome to use our Design Your Machine page or get in contact to discuss the best options for you."
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: img/gems sensor.jpg
+      text: "This sensor is an infra-red sensor that detects when liquid is present in the kegs, allowing the machine to move to the next step as soon as possible for the fastest possible keg washing."
+    - image: /img/pressure switch.jpg
+      text: "Adjustable pressure switch is available for all keg washers.  This keeps the final CO2 pressure of the kegs perfectly consistent even while using CO2 elsewhere in your facility."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Delete this section
+    text: Delete this section plz
 ---
 
