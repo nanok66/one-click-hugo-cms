@@ -24,7 +24,6 @@ values:
       infra-red liquid sensor
       user adjustable pressure sensor
       Price:  ~$13k
-
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Single origin"
     text: >
