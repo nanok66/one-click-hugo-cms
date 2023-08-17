@@ -4,11 +4,28 @@ image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      Features
+industry standard pneumatic angle seat valves
+enclosed, water resistant control box
+resistive touchscreen
+extra cycles including pulse rinse or custom cycles available
+3/4 HP pumps for detergent and sanitizer 
+6000kW heating element
+temperature sensor
+caustic/detergent tank
+acid/sanitizer tank
+adjustable low flow valve for stem cleaning
+highly visible light tower indicating status
+element dry fire protection 
+stainless build
+built on lockable castors for easy moving
+individual control of all devices - use this machine to heat CIP solution or draft line cleaning solution 
+can customize for any electrical service
+optional features:
+infra-red liquid sensor
+user adjustable pressure sensor
+Price:  ~$13k
+
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Single origin"
     text: >
