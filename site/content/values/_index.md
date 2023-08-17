@@ -3,8 +3,7 @@ title: "Values"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
-    text: >
-      Features
+    text: > Features
       industry standard pneumatic angle seat valves
       enclosed, water resistant control box
       resistive touchscreen
