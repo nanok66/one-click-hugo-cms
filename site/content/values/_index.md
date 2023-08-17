@@ -3,27 +3,7 @@ title: "Values"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
-    text: > Features
-      industry standard pneumatic angle seat valves
-      enclosed, water resistant control box
-      resistive touchscreen
-      extra cycles including pulse rinse or custom cycles available
-      3/4 HP pumps for detergent and sanitizer 
-      6000kW heating element
-      temperature sensor
-      caustic/detergent tank
-      acid/sanitizer tank
-      adjustable low flow valve for stem cleaning
-      highly visible light tower indicating status
-      element dry fire protection 
-      stainless build
-      built on lockable castors for easy moving
-      individual control of all devices - use this machine to heat CIP solution or draft line cleaning solution 
-      can customize for any electrical service
-      optional features:
-      infra-red liquid sensor
-      user adjustable pressure sensor
-      Price:  ~$13k
+    text: > Features  industry standard pneumatic angle seat valves enclosed, water resistant control box resistive touchscreen extra cycles including pulse rinse or custom cycles available  3/4 HP pumps for detergent and sanitizer 6000kW heating element  temperature sensor caustic/detergent tank acid/sanitizer tank  adjustable low flow valve for stem cleaning  highly visible light tower indicating status  element dry fire protection stainless build built on lockable castors for easy moving individual control of all devices - use this machine to heat CIP solution or draft line cleaning solution  can customize for any electrical service  Price:  ~$13k
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Single origin"
     text: >
