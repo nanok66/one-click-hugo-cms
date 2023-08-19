@@ -3,27 +3,12 @@ title: "Values"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
-    text: > Features
-      industry standard pneumatic angle seat valves
-      enclosed, water resistant control box
-      resistive touchscreen
-      extra cycles including pulse rinse or custom cycles available
-      3/4 HP pumps for detergent and sanitizer 
-      6000kW heating element
-      temperature sensor
-      caustic/detergent tank
-      acid/sanitizer tank
-      adjustable low flow valve for stem cleaning
-      highly visible light tower indicating status
-      element dry fire protection 
-      stainless build
-      built on lockable castors for easy moving
-      individual control of all devices - use this machine to heat CIP solution or draft line cleaning solution 
-      can customize for any electrical service
-      optional features:
-      infra-red liquid sensor
-      user adjustable pressure sensor
-      Price:  ~$13k
+    text: >
+      Coffee is a small tree or shrub that grows in the forest
+      understory in its wild form, and traditionally was grown
+      commercially under other trees that provided shade. The
+      forest-like structure of shade coffee farms provides habitat for
+      a great number of migratory and resident species.
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Single origin"
     text: >
@@ -32,8 +17,8 @@ values:
       specific collection of beans from a single country. The name of
       the coffee is then usually the place it was grown to whatever
       degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+    imageUrl: "/img/about - kyles washer.jpg"
+  
     text: >
       Sustainable agriculture is farming in sustainable ways based on
       an understanding of ecosystem services, the study of
