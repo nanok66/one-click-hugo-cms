@@ -9,7 +9,7 @@ values:
       commercially under other trees that provided shade. The
       forest-like structure of shade coffee farms provides habitat for
       a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
+    imageUrl: "/img/triple head cropped 2.jpg"
   - heading: "Single origin"
     text: >
       Single-origin coffee is coffee grown within a single known
@@ -33,7 +33,7 @@ values:
       farms, local businesses and schools everywhere our coffee is
       grown. You can see the communities grow and learn more about
       coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
+    imageUrl: "/img/single head.jpg"
   - heading: "Reinvest profits"
     text: >
       We want to truly empower the communities that bring amazing
@@ -41,5 +41,5 @@ values:
       farms, local businesses and schools everywhere our coffee is
       grown. You can see the communities grow and learn more about
       coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+    imageUrl: "/img/VQ Washer Super Clean Crop.jpg"
 ---
