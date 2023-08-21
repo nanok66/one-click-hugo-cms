@@ -4,12 +4,12 @@ image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/triple head cropped 2.jpg"
+      This customer wanted to wash upwards of 40 kegs per hour.  For
+    this the triple head, with liquid sensor and pressure sensor was
+    recommended.  The customer also wanted to use an external
+    sanitizer tank, you can see there are 2 pumps on this washer but
+    only one 30 gallon detergent tank. 
+    imageUrl: "/img/triple head washer.jpg"
   - heading: "Single origin"
     text: >
       Single-origin coffee is coffee grown within a single known
@@ -20,26 +20,31 @@ values:
     imageUrl: "/img/about - kyles washer.jpg"
   
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      This model was made for a customer who wanted an acid/sani tank
+    in addition to the standard caustic/detergent tank.  The
+    thermometer is the only required sensor for all machines.  In
+    addition, this model features a liquid sensor to move to the next
+    step the moment the kegs are clear.  Level switches are installed
+    in both chemical tanks for dry fire protection and auto filling
+    each tank.   An adjustable pressure switch is used to consistently
+    charge the kegs with CO2.  The tanks on this washer are rectangular
+    with a total volume of 25 gallons.
     imageUrl: "/img/about - kyles washer.jpg"
   - heading: "Direct sourcing"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+       This model is a very popular style because the sanitizer is not
+    recycled using an extra tank.  Instead it is injected into the
+    rinse water making this model cheaper than the recycling versions.
+    This gives a more accurate dosage of sanitizer since it is always
+    fresh. 
     imageUrl: "/img/single head.jpg"
   - heading: "Reinvest profits"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      This is a photo of the prototype keg washer that started Omniwasher
+    Keg Washers.  This is the keg washer used at Vision Quest brewery,
+    over 20,000 kegs have been washed with this model.  We use this washer
+    to test new features.  This washer works as good as the day it was
+    built and is a testament to the smart design and engineering that
+    went into making it.
     imageUrl: "/img/VQ Washer Super Clean Crop.jpg"
 ---
