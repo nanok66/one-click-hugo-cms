@@ -4,7 +4,7 @@ image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
     text: >
-      This customer 
+      This customer wanted to wash upwards of 40 kegs per hour.  For this the triple head design was needed.  Also the liquid sensor and pressure sensor were recommended.
     imageUrl: "/img/triple head washer.jpg"
   - heading: "Single origin"
     text: >
