@@ -21,7 +21,7 @@ values:
     imageUrl: "/img/about - kyles washer.jpg"
   - heading: "Direct sourcing"
     text: >
-       This model is a very popular style because the sanitizer is not recycled using an extra tank.  Instead it is injected into the rinse water making this model cheaper than the recycling versions.  This gives a more accurate dosage of sanitizer since it is always fresh. 
+       This model is a very popular style because the sanitizer is not recycled using an extra tank.  Instead it is injected into the rinse water making this model cheaper than the recycling versions.  This gives a more accurate dosage of sanitizer since it is always fresh.
     imageUrl: "/img/single head.jpg"
   - heading: "Reinvest profits"
     text: >
