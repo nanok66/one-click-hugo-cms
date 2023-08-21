@@ -1,5 +1,5 @@
 ---
-title: "Values"
+title: "Models"
 image: /img/triple head from side.jpg
 values:
   - heading: "Triple Station Washer"
