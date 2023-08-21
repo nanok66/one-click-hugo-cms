@@ -1,6 +1,6 @@
 ---
 title: "Values"
-image: /img/about-jumbotron.jpg
+image: /img/triple head from side.jpg
 values:
   - heading: "Triple Station Washer"
     text: >
