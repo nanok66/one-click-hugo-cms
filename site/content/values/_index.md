@@ -17,15 +17,7 @@ values:
     imageUrl: "/img/about - kyles washer.jpg"
   
     text: >
-      This model was made for a customer who wanted an acid/sani tank  
-    in addition to the standard caustic/detergent tank.  The
-    thermometer is the only required sensor for all machines.  In
-    addition, this model features a liquid sensor to move to the next
-    step the moment the kegs are clear.  Level switches are installed
-    in both chemical tanks for dry fire protection and auto filling
-    each tank.   An adjustable pressure switch is used to consistently
-    charge the kegs with CO2.  The tanks on this washer are rectangular
-    with a total volume of 25 gallons.
+      This model was made for a customer who wanted an acid/sani tank in addition to the standard caustic/detergent tank.  The thermometer is the only required sensor for all machines.  In addition, this model features a liquid sensor to move to the next step the moment the kegs are clear.  Level switches are installed in both chemical tanks for dry fire protection and auto filling each tank.   An adjustable pressure switch is used to consistently charge the kegs with CO2.  The tanks on this washer are rectangular with a total volume of 25 gallons.
     imageUrl: "/img/about - kyles washer.jpg"
   - heading: "Direct sourcing"
     text: >
