@@ -17,7 +17,7 @@ values:
     imageUrl: "/img/about - kyles washer.jpg"
   
     text: >
-      This model was made for a customer who wanted an acid/sani tank
+      This model was made for a customer who wanted an acid/sani tank  
     in addition to the standard caustic/detergent tank.  The
     thermometer is the only required sensor for all machines.  In
     addition, this model features a liquid sensor to move to the next
