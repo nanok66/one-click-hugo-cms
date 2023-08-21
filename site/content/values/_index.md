@@ -8,7 +8,7 @@ values:
     this the triple head, with liquid sensor and pressure sensor was
     recommended.  The customer also wanted to use an external
     sanitizer tank, you can see there are 2 pumps on this washer but
-    only one 30 gallon detergent tank. 
+    only one 30 gallon detergent tank.
     imageUrl: "/img/triple head washer.jpg"
   - heading: "Single origin"
     text: >
