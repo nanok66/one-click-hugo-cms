@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/omni logo 1k.svg"
 contact_entries:
   - heading: Location
     text: "2510 47th St STE A2 Boulder, CO 80301"
